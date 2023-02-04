@@ -117,9 +117,7 @@
 }
 
 .digits {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin-bottom: 100px;
 }
 
 .section-title {
@@ -138,7 +136,7 @@
 }
 
 .table {
-  margin: 0 auto 100px;
+  margin: 0 auto;
   width: 1100px;
   display: flex;
   justify-content: space-between;
@@ -207,6 +205,7 @@
   background-color: #000;
   overflow: hidden;
   position: relative;
+  padding-bottom: 90px;
 }
 
 .section-title_theme_dark {
@@ -219,7 +218,6 @@
 }
 
 .table_theme_dark {
-  margin-bottom: 90px;
   position: relative;
   z-index: 1;
 }
