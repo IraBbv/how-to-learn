@@ -58,9 +58,8 @@
 }
 
 .header__main-illustration {
-  height: 765px;
-  width: 608px;
-  height: 85%;
+  width: 765px;
+  height: 608px;
   position: absolute;
   right: 0;
   bottom: 0;
