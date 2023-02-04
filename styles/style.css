@@ -250,11 +250,11 @@
 }
 
 .footer {
+  width: 100%;
+  min-height: 350px;
   background-color: #000;
   display: flex;
   justify-content: center;
-  min-height: 350px;
-  height: auto;
   padding-top: 60px;
   padding-bottom: 40px;
 }
@@ -267,13 +267,16 @@
 
 .footer__column_content_copyright {
   flex-basis: 711px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .footer__author {
   color: white;
-  margin-top: 18px;
-  margin-bottom: 18px;
-  line-height: 25;
+  margin: 18px 0;
+  line-height: 25px;
   font-size: 18px;
   font-weight: normal;
 }
