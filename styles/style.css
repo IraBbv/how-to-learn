@@ -222,7 +222,7 @@
 }
 
 .kaufman {
-  background-color: #000;
+  background-color: #1f1f1f;
   overflow: hidden;
   position: relative;
   display: flex;
@@ -275,7 +275,8 @@
 
 .footer {
   min-height: 350px;
-  background-color: #000;
+  box-sizing: border-box;
+  background-color: #1f1f1f;
   display: flex;
   justify-content: center;
   padding-top: 60px;
