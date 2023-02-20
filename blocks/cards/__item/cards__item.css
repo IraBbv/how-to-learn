@@ -1,6 +1,7 @@
-.resourses {
+.cards__item {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+    width: 160px;
+    margin: 60px 0 0;
 }
