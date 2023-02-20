@@ -1,11 +1,15 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__section/_margin-bottom/page__section_margin-bottom_100px.css);
+@import url(../blocks/page/__section/_margin-bottom/page__section_margin-bottom_217px.css);
 @import url(../blocks/page/__section/_margin-top/page__section_margin-top_100px.css);
 @import url(../blocks/page/__section/_padding-bottom/page__section_padding-bottom_40px.css);
 @import url(../blocks/page/__section/_padding-bottom/page__section_padding-bottom_90px.css);
 @import url(../blocks/page/__section/_padding-top/page__section_padding-top_100px.css);
 @import url(../blocks/page/__section/_padding-top/page__section_padding-top_60px.css);
 @import url(../blocks/page/__section/_padding-top/page__section_padding-top_90px.css);
+@import url(../blocks/page/__link/page__link.css);
+@import url(../blocks/page/__link/_opacity/page__link_opacity.css);
+@import url(../blocks/page/__link/_opacity/page__link_opacity-hover.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
@@ -13,6 +17,8 @@
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
+
+@import url(../blocks/rotation/rotation.css);
 
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
@@ -47,6 +53,10 @@
 @import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
+
+@import url(../blocks/resourses/resourses.css);
+@import url(../blocks/resourses/__logo-zone/resourses__logo-zone.css);
+@import url(../blocks/resourses/__link/resourses__link.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
